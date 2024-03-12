@@ -4,7 +4,7 @@
 
 #### Sobre mí
 
-- 🎓 Estudiante de Doctorado en Mecatrónica en el CIO - CIMAT.
+- 🎓 Estudiante de Doctorado en Mecatrónica en el CIO.
 - 👨‍💻 Ingeniero en Robótica Computacional.
 - 🤖 Entusiasta de la robótica.
 - 📚 Siempre abierto a aprender algo nuevo y dispuesto a ser enseñado.
